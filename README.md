@@ -8,7 +8,7 @@
 
 [![Profile Views](https://komarev.com/ghpvc/?username=roshan-2708&label=Profile+Views&color=58a6ff&style=flat)](https://github.com/roshan-2708)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=flat&logo=linkedin)](https://linkedin.com/in/roshan-kumar-patra)
-[![Gmail](https://img.shields.io/badge/Gmail-Mail%20Me-ea4335?style=flat&logo=gmail&logoColor=white)](mailto:roshankumarpatra27@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-Mail%20Me-ea4335?style=flat&logo=gmail&logoColor=white)](mailto:roshanpatra275@gmail.com)
 [![GitHub followers](https://img.shields.io/github/followers/roshan-2708?label=Follow&style=flat&color=58a6ff)](https://github.com/roshan-2708)
 
 </div>
