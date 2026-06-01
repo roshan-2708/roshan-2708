@@ -131,9 +131,8 @@ A collection of advanced GSAP animation experiments — scroll-triggered effects
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=roshan-2708&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=3fb950&text_color=c9d1d9" alt="GitHub Stats" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roshan-2708&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages" width="42%"/>
-
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=roshan-2708&theme=tokyonight" alt="GitHub Stats" width="49%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=roshan-2708&theme=tokyonight" alt="Top Languages" width="45%"/>
 <br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=roshan-2708&theme=tokyonight&hide_border=true&background=0d1117&stroke=21262d&ring=58a6ff&fire=f78166&currStreakLabel=58a6ff" alt="GitHub Streak" width="94%"/>
@@ -144,15 +143,6 @@ A collection of advanced GSAP animation experiments — scroll-triggered effects
 
 </div>
 
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=roshan-2708&theme=onestar&no-frame=true&no-bg=true&margin-w=6&column=6)
-
-</div>
 
 ---
 
