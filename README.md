@@ -89,23 +89,6 @@ A high-traffic Ed-Tech marketplace built on the MERN stack — enabling course c
 </td>
 <td width="50%" valign="top">
 
-### 🏙️ CivicConnect
-**Community Issue Tracking System**
-
-A civic-tech platform bridging communication between governance bodies and citizens through transparent issue management.
-
-**Highlights:**
-- 📍 Geo-spatial issue reporting with real-time status tracking
-- 🛡️ Admin control board with priority sorting
-- 📡 RESTful API architecture
-
-**Stack:** `React` `Node.js` `Express` `MongoDB` `REST APIs`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
 ### 🧑‍💼 PB Pro
 **Advanced Portfolio Builder**
 
@@ -119,6 +102,8 @@ A developer-first workspace to programmatically build, customize, and deploy int
 **Stack:** `React` `Modular CSS` `JavaScript ES6+` `Vercel`
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 🎞️ GSAP Animations
@@ -133,6 +118,9 @@ A collection of advanced GSAP animation experiments — scroll-triggered effects
 
 **Stack:** `GSAP` `JavaScript` `HTML5` `CSS3`
 
+</td>
+<td width="50%" valign="top">
+<!-- Placeholder for future project -->
 </td>
 </tr>
 </table>
@@ -162,7 +150,7 @@ A collection of advanced GSAP animation experiments — scroll-triggered effects
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=roshan-2708&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7)
+![Trophies](https://github-profile-trophy.vercel.app/?username=roshan-2708&theme=onestar&no-frame=true&no-bg=true&margin-w=6&column=6)
 
 </div>
 
@@ -178,7 +166,7 @@ If you have an interesting problem to solve — let's build something great toge
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Roshan%20Kumar%20Patra-0a66c2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/roshan-kumar-patra)
-[![Gmail](https://img.shields.io/badge/Gmail-roshankumarpatra27%40gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:roshanpatra275@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-roshanpatra275%40gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:roshanpatra275@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-roshan--2708-181717?style=for-the-badge&logo=github)](https://github.com/roshan-2708)
 
 <br/>
