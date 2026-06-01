@@ -178,7 +178,7 @@ If you have an interesting problem to solve — let's build something great toge
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Roshan%20Kumar%20Patra-0a66c2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/roshan-kumar-patra)
-[![Gmail](https://img.shields.io/badge/Gmail-roshankumarpatra27%40gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:roshankumarpatra27@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-roshankumarpatra27%40gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:roshanpatra275@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-roshan--2708-181717?style=for-the-badge&logo=github)](https://github.com/roshan-2708)
 
 <br/>
