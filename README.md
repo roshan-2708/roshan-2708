@@ -135,9 +135,6 @@ A collection of advanced GSAP animation experiments — scroll-triggered effects
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=roshan-2708&theme=tokyonight" alt="Top Languages" width="45%"/>
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=roshan-2708&theme=tokyonight&hide_border=true&background=0d1117&stroke=21262d&ring=58a6ff&fire=f78166&currStreakLabel=58a6ff" alt="GitHub Streak" width="94%"/>
-
-<br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=roshan-2708&bg_color=0d1117&color=58a6ff&line=3fb950&point=58a6ff&area=true&hide_border=true" alt="Contribution Graph" width="94%"/>
 
