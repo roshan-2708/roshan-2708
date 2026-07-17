@@ -120,7 +120,19 @@ A collection of advanced GSAP animation experiments — scroll-triggered effects
 
 </td>
 <td width="50%" valign="top">
-<!-- Placeholder for future project -->
+
+### 💼 Job Board
+**Full-Stack Job Listing Platform**
+
+A MERN-based job board connecting recruiters and job seekers — with role-based access for posting, browsing, and applying to openings.
+
+**Highlights:**
+- 🔑 Role-based authentication for recruiters & applicants
+- 🔍 Advanced search & filtering by role, location, and skills
+- 📄 Resume/application tracking with status updates
+
+**Stack:** `React` `Node.js` `Express` `MongoDB` `JWT`
+
 </td>
 </tr>
 </table>
